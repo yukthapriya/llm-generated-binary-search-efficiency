@@ -1,4 +1,5 @@
-LLM Code Efficiency Benchmark
+# LLM Code Efficiency Benchmark
+
 📄 Project Title
 The Efficiency of LLM-Generated Code for Binary Search: A Comparative Study
 
