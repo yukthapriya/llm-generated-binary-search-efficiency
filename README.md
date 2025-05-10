@@ -1,6 +1,4 @@
 
-![LLM generated Code Inefficiencies](https://github.com/user-attachments/assets/70f7d5a0-e34e-4be6-91fb-058dbe881cf4)
-![hard-problem](https://github.com/user-attachments/assets/955e9ad7-9176-4167-9224-b5f0776906d6)
 # LLM Code Efficiency Benchmark
 
 The Efficiency of LLM-Generated Code for Binary Search: A Comparative Study
@@ -32,27 +30,3 @@ Human-optimized code outperformed all LLMs in execution time and memory.
 LLMs varied in efficiency, especially for hard problems.
 
 Mistral Small 3.1 showed faster execution on easy tasks but struggled with memory usage.
-
-📈 Visualizations
-Average Execution Time by Difficulty
-
-Memory Usage Comparison
-
-Hard Problem Performance Charts
-
-🔍 Key Findings
-LLMs provide fast code generation but sacrifice runtime and memory efficiency.
-
-Human expertise remains essential for optimizing algorithmic code.
-
-Hybrid approaches (LLM + human refinement) may offer the best of both worlds.
-
-📁 File Structure
-bash
-Copy
-Edit
-├── data/                 # Raw and processed benchmark data
-├── code/                 # Binary search implementations (Human & LLM)
-├── visualizations/       # Graphs and plots
-├── report/               # Final report (PDF/DOCX)
-└── README.md             # Project overview
