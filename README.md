@@ -1,8 +1,4 @@
-<img width="1680" alt="Screenshot 2025-05-05 at 11 23 25 PM" src="https://github.com/user-attachments/assets/b96d09eb-a412-43d8-8656-e3fbc0bba117" />
-<img width="1680" alt="Screenshot 2025-05-05 at 10 08 16 PM" src="https://github.com/user-attachments/assets/868692b2-1fb3-4683-81d7-83ad058105ff" />
-![detailed](https://github.com/user-attachments/assets/71ae354e-7bbe-4ae8-b1b5-c43dd2c0f103)
-![sample2-graph](https://github.com/user-attachments/assets/a284106e-e15c-4a31-a02b-da206d91293a)
-![Sample1-graph](https://github.com/user-attachments/assets/caaa51be-db77-424c-ad56-5be5d548a9cc)
+
 ![LLM generated Code Inefficiencies](https://github.com/user-attachments/assets/70f7d5a0-e34e-4be6-91fb-058dbe881cf4)
 ![hard-problem](https://github.com/user-attachments/assets/955e9ad7-9176-4167-9224-b5f0776906d6)
 # LLM Code Efficiency Benchmark
