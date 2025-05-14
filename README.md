@@ -1,4 +1,3 @@
-
 # LLM Code Efficiency Benchmark
 
 The Efficiency of LLM-Generated Code for Binary Search: A Comparative Study
